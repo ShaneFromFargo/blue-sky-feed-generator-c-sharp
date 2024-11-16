@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m8HiN2KeUgtJG2NFC9lfuigQL+M9tFc0ymO/j/2OvmA=",
+  "Source": "bsky-custom-feed",
+  "BasePath": "_content/bsky-custom-feed",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
